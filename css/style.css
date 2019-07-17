@@ -1,0 +1,80 @@
+body{
+    color: black;
+}
+.navbar {
+    background: rgba(0,0,0,.5);
+}
+
+.food-area {
+    background: url(../Image/restaurant222.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+.bg-area {
+    background: url(../Image/restaurantbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    color: white;
+}
+.simple{
+    background: rgba(0,0,0,.7);
+    border-radius: 11px;
+}
+
+.bg-area h2{
+    background: url(../Image/divider.png) no-repeat center;
+    padding-bottom: 100px;
+}
+
+.food-area h2{
+    background: url(../Image/restaurant-divider2.png) no-repeat center;
+    padding-bottom: 100px;
+}
+.footer h2{
+    background: url(../Image/divider.png) no-repeat center;
+    padding-bottom: 100px;
+}
+.footer{
+    background-color: #191919;
+    color: #fff;
+}
+
+
+
+
+
+
+.Appetisers h2{
+    background: url(../Image/restaurant-divider2.png) no-repeat center;
+    padding-bottom: 100px;
+}
+.Appetisers {
+    background: url(../Image/restaurant222.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+.Guest-Reviews{
+     background: url(../Image/restaurant-rool.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    color: #fff;
+}
+.Guest-Reviews h2{
+    background: url(../Image/divider.png) no-repeat center;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.b-c-area{
+    background: rgba(0,0,0,.7);
+    border-radius: 11px;
+}
+.navbar h2{
+  background: url(../Image/divider.png) no-repeat center;
+    padding-bottom: 100px;
+    text-align: center;  
+}
